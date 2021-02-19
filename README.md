@@ -16,6 +16,9 @@ Research project to study variants of Graph Convolutional Neural Networks for tr
 * [3D-TGCNN](https://arxiv.org/pdf/1903.00919v1.pdf)
 * [SLCNN](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)
 * [Q-Traffic](https://arxiv.org/pdf/1806.07380.pdf)
+* seq2seq
+* GCNN
+* RNN
 
 ## **Articles:**
 * [Stationarity](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
