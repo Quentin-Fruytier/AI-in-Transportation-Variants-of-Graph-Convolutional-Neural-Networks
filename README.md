@@ -1,4 +1,4 @@
-# AI-in-Transportation-Variants-of-Graph-Convolutional-Neural-Networks
+# AI-in-Transportation-Variants-of-Graph-Neural-Networks
 Research project to study variants of Graph Neural Networks for traffic prediction
 
 
