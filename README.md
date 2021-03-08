@@ -24,6 +24,7 @@ Research project to study variants of Graph Convolutional Neural Networks for tr
 * [Stationarity](https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322)
 * [LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [GCNNs](https://towardsdatascience.com/understanding-graph-convolutional-networks-for-node-classification-a2bfdb7aba7b)
+* [seq2seq](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 
 ## **Implementations:**
 * [DCRNN TensorFlow](https://github.com/liyaguang/DCRNN)
