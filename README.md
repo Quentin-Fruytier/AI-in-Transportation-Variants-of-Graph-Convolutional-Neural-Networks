@@ -17,6 +17,7 @@ Research project to study variants of Graph Neural Networks for traffic predicti
 * [SLCNN](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)
 * [Q-Traffic](https://arxiv.org/pdf/1806.07380.pdf)
 * [seq2seq](https://arxiv.org/pdf/1409.3215.pdf)
+* [Attention](https://ojs.aaai.org//index.php/AAAI/article/view/3881)
 * GCNN
 * RNN
 
@@ -30,12 +31,13 @@ Research project to study variants of Graph Neural Networks for traffic predicti
 * [DCRNN TensorFlow](https://github.com/liyaguang/DCRNN)
 * [DCRNN PyTorch](https://github.com/xlwang233/pytorch-DCRNN)
 * [GCNN](https://tkipf.github.io/graph-convolutional-networks/)
+* [NMT seq2seq with Attention](https://www.tensorflow.org/addons/tutorials/networks_seq2seq_nmt)
 
 ## **Timeline**:
 - [x] Literature Review
 - [x] Finalise project goals & DataSets
 - [x] Reproduce Results
-- [ ] Perform experiments
+- [x] Perform experiments
 - [ ] Write reports
 
 
