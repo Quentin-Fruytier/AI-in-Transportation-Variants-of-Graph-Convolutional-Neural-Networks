@@ -4,6 +4,7 @@ Research project to study variants of Graph Neural Networks for traffic predicti
 
 ## **My Presentations:**
 * [Preliminary presentation](https://docs.google.com/presentation/d/1f6FGtKA4ekMZ6OfBVgcisIse1lNUeRzBL_sVI6fW21A/edit#slide=id.gbcc2626431_0_5)
+* [Phase II presentation](https://docs.google.com/presentation/d/1EdcQF1zpE7ViQpj8LHX9DzwwabDG2TRiltwdDQHBJTI/edit?usp=sharing)
 
 ## **DataSets:**
 * [Q-Traffic](https://ai.baidu.com/broad/download?dataset=traffic)
