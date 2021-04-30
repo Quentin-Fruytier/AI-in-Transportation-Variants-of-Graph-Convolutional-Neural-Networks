@@ -39,7 +39,7 @@ Research project to study variants of Graph Neural Networks for traffic predicti
 - [x] Finalise project goals & DataSets
 - [x] Reproduce Results
 - [x] Perform experiments
-- [ ] Write reports
+- [x] Write reports
 
 
 
