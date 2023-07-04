@@ -12,7 +12,7 @@ Research project to study variants of Graph Neural Networks for traffic predicti
 * PEMS-M
 
 
-## **Papers:**
+## **Related Papers:**
 * [DCRNN](https://arxiv.org/pdf/1707.01926.pdf)
 * [3D-TGCNN](https://arxiv.org/pdf/1903.00919v1.pdf)
 * [SLCNN](https://paperswithcode.com/paper/spatio-temporal-graph-structure-learning-for)
